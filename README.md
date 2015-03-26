@@ -28,3 +28,5 @@
 ## Liga de interes para Windows
 
 + **[Say goodbye to Microsoft. Now.](http://goodbye-microsoft.com/)**
+
+![linux preacher](https://raw.github.com/hachepunto/GNU_Linux_connecting_tools/master/linux_preacher.jpg)
