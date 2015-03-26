@@ -19,7 +19,17 @@
 
 + **[win-sshfs](https://code.google.com/p/win-sshfs/)** sshfs para montar sistemas de archivos remotos en Win
 
-## Otras ligas de interes para Mac
+
+#####En Linux:
+
++ **[ssh](http://www.openssh.com/)** Secure Shell es un protocolo para conecciones de red seguras y encriptadas. [Tutorial](http://blog.desdelinux.net/como-crear-un-tunel-ssh-entre-un-servidor-linux-y-un-cliente-windows/)
+
++ **[sshfs](http://fuse.sourceforge.net/sshfs.html)** Un cliente de sistema de archivos basado en el protocolo de transferencia de SSH. [Tutorial](https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh)
+
++ **[Byobu](https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh)** Byobu es un entorno con esteroides para los multiplexotes de terminal GNU [Screen](https://www.gnu.org/software/screen/) o [tmux](http://tmux.sourceforge.net/). [Manual](http://manpages.ubuntu.com/manpages/oneiric/en/man1/byobu.1.html)
+
+
+## Ligas de interes para Mac
 
 + **[HomeBrew](http://brew.sh/)**
 
