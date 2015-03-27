@@ -26,7 +26,7 @@
 
 + **[sshfs](http://fuse.sourceforge.net/sshfs.html)** Un cliente de sistema de archivos basado en el protocolo de transferencia de SSH. [Tutorial](https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh)
 
-+ **[Byobu](https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh)** Byobu es un entorno con esteroides para los multiplexotes de terminal GNU [Screen](https://www.gnu.org/software/screen/) o [tmux](http://tmux.sourceforge.net/). [Manual](http://manpages.ubuntu.com/manpages/oneiric/en/man1/byobu.1.html)
++ **[Byobu](https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh)** Byobu es un entorno con esteroides para los [multiplexores](http://en.wikipedia.org/wiki/Terminal_multiplexer) de terminal GNU [Screen](https://www.gnu.org/software/screen/) o [tmux](http://tmux.sourceforge.net/). [Manual](http://manpages.ubuntu.com/manpages/oneiric/en/man1/byobu.1.html)
 
 
 ## Ligas de interes para Mac
