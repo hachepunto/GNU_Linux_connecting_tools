@@ -39,6 +39,8 @@
 
 + **[Como instalar las GNU command line tools con Brew](https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/)**
 
++ **[Arreglar el error in locking authority file ~/.XAuthority en Mac](http://hints.macworld.com/article.php?story=20060410092629437)**
+
 ## Liga de interes para Windows
 
 + **[Say goodbye to Microsoft. Now.](http://goodbye-microsoft.com/)**
