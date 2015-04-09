@@ -157,3 +157,11 @@ $ sshfs <usuario>@192.168.41.92 ~/mirmecoleon -p 344 -o local -o volname=mirmeco
 ```
 
 Busca tu disco mirmecoleon.
+
+Para desmontar:
+
+```
+$ fusermount -u mirmecoleon
+```
+
+O bien expulsa como siempre haces con un dispositivo externo.
