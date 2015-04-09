@@ -9,6 +9,12 @@ La **CLI** es menos usada por el usuario de computadoras promedio que prefiere u
 
 La **CLI**, sin embargo, es preferida por los usuarios avanzados de cómputo dado que ofrece medios más concisos y poderosos para controlar porgramas o sistemas operativos.
 
+Las órdenes dadas al shell de linea de comandos comúnmente tiene alguna de las sigientes sintaxis:
+
++ *hazAlgo como archivoDestino*
++ *hazAlgo como archivoFuente archivoDestino*
++ *hazAlgo como <archivoEntrada> archivoSalida*
++ *hazAlgo como | hazAlgo como | hazAlgo como > archivoSalida*
 
 ## Ejercicios [^1]
 
@@ -43,7 +49,7 @@ $ ls
 ***wget*** (www get) Es un programa para descargar archivos de internet.
 
 ```
-$ wget https://raw.githubusercontent.com/hachepunto/GNU_Linux_connecting_tools/master/niklas_biomass_20040122.txt
+$ wget https://raw.githubusercontent.com/hachepunto/GNU_Linux_connecting_tools/master/data/niklas_biomass_20040122.txt
 ```
 ```
 $ ls
