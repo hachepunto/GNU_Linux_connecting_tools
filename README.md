@@ -11,6 +11,8 @@
 
 + **[OSXFuse](https://osxfuse.github.io/)** Monta sistemas de archivos remotos via sshfs.
 
++ **[SSHFS](https://github.com/osxfuse/osxfuse/wiki/SSHFS)** Segunda parte del anterior. 
+
 #####En Windows:
 
 + **[PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/)** Emulador de terminal para Windows
