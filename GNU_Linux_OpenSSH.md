@@ -41,7 +41,7 @@ Arrancar Byobu
 $ byobu
 ```
 
-¿Notaron que de lindo es ;¬)
+¿Notaron que de lindo es? ;¬)
 
 
 ```
@@ -149,7 +149,7 @@ $ cd
 ```
 
 ```
-$ mkdir ejercicioSSH
+$ mkdir mirmecoleon
 ```
 
 ```
