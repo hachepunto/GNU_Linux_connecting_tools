@@ -16,9 +16,7 @@ Las órdenes dadas al shell de linea de comandos comúnmente tiene alguna de las
 + *hazAlgo como <archivoEntrada> archivoSalida*
 + *hazAlgo como | hazAlgo como | hazAlgo como > archivoSalida*
 
-## Ejercicios [^1]
-
-[^1]: Datos descargados de [este sitio web](https://daac.ornl.gov/VEGETATION/guides/niklas_plant_biomass.html)
+## Ejercicios<sup>[1](#myfootnote1)</sup>
 
 Abre tu emulador de terminal y copia y pega uno por uno los siguientes comandos mientras explico:
 
@@ -140,3 +138,6 @@ https://www.nceas.ucsb.edu/scicomp/data
 ```
 http://ecologicaldata.org/
 ```
+
+
+<sup><a name="myfootnote1">1</a></sup>Datos descargados de [este sitio web](https://daac.ornl.gov/VEGETATION/guides/niklas_plant_biomass.html)
