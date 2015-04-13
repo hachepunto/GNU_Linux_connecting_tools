@@ -12,7 +12,7 @@ Abre tu emulador de terminal y copia y pega uno por uno los siguientes comandos 
 Conección con un servidor SSH
 
 ```
-$ ssh <usuario>@192.168.41.92 -p 344
+$ ssh <usuario>@192.168.41.92 -p XXX
 ```
 
 ```
@@ -121,7 +121,7 @@ $ exit
 Iniciamos la conección con las X activadas ("C" es de compresión). Los maqueros necesitan arrancar X11 o XQuartz.
 
 ```
-$ ssh -XC <usuario>@192.168.41.92 -p 344 
+$ ssh -XC <usuario>@192.168.41.92 -p XXX 
 ```
 
 Arrancamos Rstudio
@@ -153,7 +153,7 @@ $ mkdir mirmecoleon
 ```
 
 ```
-$ sshfs <usuario>@192.168.41.92 ~/mirmecoleon -p 344 -o local -o volname=mirmecoleon 
+$ sshfs <usuario>@192.168.41.92 ~/mirmecoleon -o local -o volname=mirmecoleon 
 ```
 
 Busca tu disco mirmecoleon.
