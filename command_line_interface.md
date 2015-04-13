@@ -3,7 +3,7 @@
 
 ## Preámbulo
 
-La **[Interaface de línea de comandos](http://en.wikipedia.org/wiki/Command-line_interface)** (CLI) es un **método para interactual** con con un programa de computadora que permite al usuario dar órdenes al programa **en forma de lineas de texto** sucesivas (líneas de comando). 
+La **[Interaface de línea de comandos](http://en.wikipedia.org/wiki/Command-line_interface)** (CLI) es un **método para interactual** con un programa o sistema operativo de computadora que permite al usuario dar órdenes al programa **en forma de lineas de texto** sucesivas (líneas de comando). 
 
 La **CLI** es menos usada por el usuario de computadoras promedio que prefiere usar una **[Interface Gráfica de Usuario](http://en.wikipedia.org/wiki/Command-line_interface)** (GUI) que ofrece una estética mejorada y una mayor simplificación, a costa de un mayor consumo de recursos computacionales, y, en general, de una reducción de la funcionalidad alcanzable.
 
@@ -109,16 +109,16 @@ $ cut -f1,5 niklas_biomass_20040122.txt | sort | wc -l
 $ cut -f1,5 niklas_biomass_20040122.txt | sort | uniq > niklas_col_1_5_uniq.txt
 ```
 ```
-$ less niklas_col5.txt
+$ less niklas_col_1_5_uniq.txt
 ```
 
 ***grep*** (get all lines matching the regular expression and print (g/re/p)) es un programa para buscar cadenas de texto dentro de un archivo.
 
 ```
-$ grep Abies niklas_col5.txt | less
+$ grep Abies niklas_col_1_5_uniq.txt | less
 ```
 ```
-$ grep Abies niklas_col5.txt > abies.txt`
+$ grep Abies niklas_col_1_5_uniq.txt > abies.txt`
 ```
 
 [Lista de comandos de UNIX en la Wikipedia](http://en.wikipedia.org/wiki/List_of_Unix_commands)
