@@ -76,7 +76,7 @@ $ less -S niklas_biomass_20040122.txt
 ```
 $ cut -f1 niklas_biomass_20040122.txt
 ```
-***pipeline*** ( **|** ) es un método para encadenar programas de tal modo que la salida de uno es la entrada del que sigue. Se usa una barra vertical para separar los programas a usar.
+***pipe*** ( **|** ) es un método para encadenar programas de tal modo que la salida de uno es la entrada del que sigue. Se usa una barra vertical para separar los programas a usar.
 
 ```
 $ cut -f1 niklas_biomass_20040122.txt | less
